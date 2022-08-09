@@ -11,7 +11,7 @@ I'm a Software Engineer, Technical Writer, and a Data Scientist. I'm passionate 
 - 🌱 I’m currently learning JavaScript, Reactjs, Nextjs and Typescript.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtobabzchizzy27@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing: babzchizzy27@gmail.com.
 
 ---
 
