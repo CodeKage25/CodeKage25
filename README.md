@@ -8,8 +8,8 @@ I'm a Software Engineer, Technical Writer, and a Data Scientist. I'm passionate 
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I work with JavaScript, Reactjs, Nextjs, Typescript, and Nodejs.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and job opportunities.
+- 🌱 I work with JavaScript, Reactjs, Vuejs, Nextjs, Typescript, and Nodejs.
+- 😊 I’m looking for help with open source projects, hackathons, and job opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Mid level).
 - 📫 You can [view my resume](#) and contact me by emailing: babzchizzy27@gmail.com.
 
