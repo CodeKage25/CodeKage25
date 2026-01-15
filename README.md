@@ -99,10 +99,6 @@ Built a **DeFi AI Trading Bot** that beat 42 other participants worldwide:
 
 ### 🚀 Featured Projects
 
-<a href="https://github.com/CodeKage25/deployhub">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeKage25&repo=deployhub&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />
-</a>
-
 <table>
 <tr>
 <td width="100%" colspan="2">
@@ -114,6 +110,7 @@ Built a **DeFi AI Trading Bot** that beat 42 other participants worldwide:
 </a>
 <img src="https://img.shields.io/badge/Open_Source-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/CodeKage25/deployhub?style=for-the-badge&color=yellow&labelColor=black"/>
 </p>
 <p align="center"><strong>Deploy any application with zero configuration.</strong> Push your code — we build, containerize, and deploy it automatically. Supports 9 languages (Node.js, Python, Go, Rust, Ruby, Java, PHP, Elixir, Static), includes an IaC visualizer for Terraform/CloudFormation, real-time build logs, and a beautiful dark-themed dashboard.</p>
 <p align="center"><em>Built with Fastify, React, Docker, SQLite, React Flow</em></p>
@@ -174,12 +171,17 @@ Built a **DeFi AI Trading Bot** that beat 42 other participants worldwide:
 ### 📊 Stats
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodeKage25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=CodeKage25&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeKage25&theme=tokyonight" width="100%"/>
 </p>
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeKage25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeKage25&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeKage25&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeKage25&theme=tokyonight" width="32%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeKage25&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
