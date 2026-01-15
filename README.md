@@ -199,18 +199,3 @@ Built a **DeFi AI Trading Bot** that beat 42 other participants worldwide:
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-I'm a Software Engineer, Technical Writer, and a Data Scientist. I'm passionate about sharing knowledge, documentation, web engineering, and others. I create technical content (on my [Blog](https://code-kage.hashnode.dev/)).
-
-**Here's a quick summary about me**:
-
-- 😊 Pronouns: He/him
-- 💡 Fun fact: I'm a graduate of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I work with JavaScript, Reactjs, Vuejs, Nextjs, Typescript, and Nodejs.
-- 😊 I’m looking for help with open source projects, hackathons, and job opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Mid level).
-- 📫 You can [view my resume](#) and contact me by emailing: babzchizzy27@gmail.com.
-
----
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeKage25&show_icons=true&include_all_commits=true&hide_border=true" alt="Abdulkareem's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeKage25&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
-| ------------- | ------------- |
