@@ -1,6 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdulkareem%20Babatunde&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeKage25&style=for-the-badge&color=6366F1&labelColor=0D1117&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/CodeKage25?style=for-the-badge&color=6366F1&labelColor=0D1117&label=FOLLOWERS"/>
+</p>
+
+<p align="center">
   <a href="https://www.codekage.codes/"><img src="https://img.shields.io/badge/Portfolio-codekage.codes-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abdulkareembabatunde/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/codehokage_"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
