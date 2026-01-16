@@ -72,7 +72,7 @@ Built a **DeFi AI Trading Bot** that beat 42 other participants worldwide:
 <summary><b>Languages</b></summary>
 <br/>
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,c,cpp&theme=dark" />
 </p>
 </details>
 
